@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/justin-meme-raccoon-pedro-aQwvKKi4Lv3t63nZl9"  />
+  <img height="150" src="[https://giphy.com/gifs/justin-meme-raccoon-pedro-aQwvKKi4Lv3t63nZl9](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F3cXdsZnB6cXFjNWdnZDJuNnI4a2c2Y25wMGpqbXN4ODlrczNqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif)"  />
 </div>
 
 ###
