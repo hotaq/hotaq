@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Chinnaphta from Thailand<br><br>- 🔭 I’m Study as chulalongkorn university</p>
+<p align="left">I'm Chinnaphat from Thailand<br><br>- 🔭 I’m Study as chulalongkorn university</p>
 
 ###
 
