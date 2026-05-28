@@ -15,7 +15,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 name: Chinnaphat Khuncharoen
 from: Thailand
 education: ["Computer Engineering And Digital Technology (CEDT)"]
-fields_of_interests: ["AI Engineer", "Software Engineer"]
+fields_of_interests: ["AI Engineer", "Data Scientist","Software Engineer"]
 currently_learning: ["C++", "Python", "React"]
 will_learn: ["Rust"]
 hobbies: ["Play some game", "Take a photo"]
